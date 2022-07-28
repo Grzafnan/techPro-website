@@ -28,6 +28,11 @@
   margin-bottom: 120px;
 }
 
+/* Feedback Start  */
+#feedback{
+  margin-bottom: 120px;
+}
+
 @media only screen and (max-width:767px){
   .course-image{
     width: 100%;
