@@ -2,6 +2,14 @@
   font-family: 'Poppins', sans-serif;
 }
 
+.carousel-item>img:nth-child(2){
+  object-fit: cover;
+}
+.carousel-item img{
+  height: 80vh;
+}
+
+
 /* Courses section  */
 .courses{
   margin-top: 120px;
