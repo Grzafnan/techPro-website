@@ -2,7 +2,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
-.cover-two{
+.cover-two {
   object-fit: cover;
 }
 .carousel-item img{
@@ -26,6 +26,9 @@
 /* Success Section Start */
 .success{
   margin-bottom: 120px;
+}
+.question-container{
+  max-width: 850px;
 }
 
 /* Feedback Start  */
