@@ -32,6 +32,19 @@
 #feedback{
   margin-bottom: 120px;
 }
+/* Question Section Start  */
+#question{
+  margin-bottom: 120px;
+}
+
+#listed-Companies{
+  margin-bottom: 120px;
+}
+
+#footer{
+  background-color: black;
+}
+
 
 @media only screen and (max-width:767px){
   .course-image{
