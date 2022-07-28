@@ -2,7 +2,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
-.carousel-item>img:nth-child(2){
+.cover-two{
   object-fit: cover;
 }
 .carousel-item img{
